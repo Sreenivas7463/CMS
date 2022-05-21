@@ -9,8 +9,8 @@
   <h3>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h3>
-	{{ if .image }}
-	<img src="{{ .image }}" >
+	{{ if .RelPermalink.image }}
+	<img src="{{ .RelPermalink.image }}" >
 {{ end }}
 	<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
 		{{ .Date.Format "January 2, 2006" }}
