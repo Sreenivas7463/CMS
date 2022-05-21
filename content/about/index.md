@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: About
 ---
+This is Sreenivas
 
-Here's a bit about me.
+This is using Netlify CMS
