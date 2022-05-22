@@ -8,6 +8,8 @@ Use the deploy button to get your own copy of the repository.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ericmurphyxyz/hugo-starter-netlify-cms&stack=cms)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5607b3e4-4090-4585-845b-3289c0e8086c/deploy-status)](https://app.netlify.com/sites/sree99/deploys)
+
 This will setup everything needed for running the CMS:
 
 * A new repository in your GitHub account with the code
