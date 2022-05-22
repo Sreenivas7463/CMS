@@ -5,7 +5,7 @@ image: https://m.media-amazon.com/images/I/51H5u8+KARL._SL1500_.jpg
 ---
 [Buy Link](https://amzn.to/3lw8FdA)
 
-!['min fan'](https://m.media-amazon.com/images/I/51Dy50HCZrL._SL1060_.jpg)
+![min fan](https://m.media-amazon.com/images/I/51Dy50HCZrL._SL1060_.jpg)
 
 <!--StartFragment-->
 
