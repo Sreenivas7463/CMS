@@ -4,7 +4,9 @@
 
 {{ .Content }}
 
-{{ range.Data.Pages }}
+{{ range.Data.Pages }}{{ end }}
+
+{{ range .Paginator.Pages }}
 <article class="post-snippet">
   <h3>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
