@@ -1,4 +1,8 @@
 title = "Sreenivas"
+paginate = 3
+
+[params]
+dateFormat = "Jan 2, 2006, 3:04PM"
 
 [menu]
   [[menu.main]]
