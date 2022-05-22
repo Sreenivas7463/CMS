@@ -2,6 +2,7 @@
 title: Geek Aire GF6, 8 Inch Rechargeable Mini Fan
 date: 2022-05-22T14:07:10.311Z
 image: https://m.media-amazon.com/images/I/71wDKmiAqqL._SL1500_.jpg
+author: Sreenivas
 ---
 [BUY Link](https://amzn.to/3ySoDa7)
 <!--StartFragment-->
