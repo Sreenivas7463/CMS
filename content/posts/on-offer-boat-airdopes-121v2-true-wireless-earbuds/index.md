@@ -2,6 +2,7 @@
 title: On Offer  boAt Airdopes 121v2 True Wireless Earbuds
 date: 2022-05-22T10:39:56.006Z
 image: boat_.jpg
+author: Sreenivas
 ---
 <!--StartFragment-->
 
