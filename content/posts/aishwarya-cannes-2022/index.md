@@ -8,5 +8,7 @@ author: Sreenivas
 [#AishwaryaRaiBachchan](https://twitter.com/hashtag/AishwaryaRaiBachchan?src=hashtag_click) 
 [#AishwaryaAtCannes](https://twitter.com/hashtag/AishwaryaAtCannes?src=hashtag_click)
 
+[![Aishwarya@cannes](https://pbs.twimg.com/media/FTDeslGakAA2vya?format=jpg&name=large)](https://twitter.com/RamjayRai2/status/1528610438077788160)
+
 ![Aishwarya_Hairstyle](https://pbs.twimg.com/media/FTDON6FaUAA8Lv4?format=jpg&name=large)
 [Aishwarya Rai @Cannes 2022 Festival](https://twitter.com/4everAishwarya/status/1528371524482215936/photo/1)
