@@ -16,6 +16,9 @@
                 {{ end }}
             </span>
         </div>
+        {{ if .Params.image }}
+            <img src="{{ .Params.image }}" class="img-fluid rounded">
+        {{ end }}
         <div class="entry-content">{{ .Summary }}</div>
     </article>
     {{ end }}
