@@ -3,6 +3,7 @@ title: Philips 9-Watts Multipack B22 LED Cool Day White LED Bulb, Pack of 4,
   (Ace Saver)
 date: 2022-05-22T14:42:45.967Z
 image: https://m.media-amazon.com/images/I/714h9p+w6DL._SL1500_.jpg
+tags: Amazon
 author: Sreenivas
 ---
 [BUY LINK](https://amzn.to/3wyLw0E)
