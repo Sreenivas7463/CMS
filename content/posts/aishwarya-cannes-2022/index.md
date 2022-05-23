@@ -2,6 +2,7 @@
 title: Aishwarya@Cannes 2022
 date: 2022-05-23T08:27:58.545Z
 image: https://pbs.twimg.com/media/FTXdxucWUAEzVTs?format=jpg&name=large
+tags: Entertainment
 author: Sreenivas
 ---
 [#AishwaryaRai](https://twitter.com/hashtag/AishwaryaRai?src=hashtag_click)
