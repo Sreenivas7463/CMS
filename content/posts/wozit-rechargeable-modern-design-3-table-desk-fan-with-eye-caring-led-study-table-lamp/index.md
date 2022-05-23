@@ -3,6 +3,7 @@ title: WOZIT Rechargeable Modern Design 3" Table Desk Fan with Eye-caring LED
   Study Table Lamp
 date: 2022-05-22T16:15:52.230Z
 image: https://m.media-amazon.com/images/I/41vJ6930NZL.jpg
+tags: Amazon
 author: Sreenivas
 ---
 [BUY LINK](https://amzn.to/3PCNfcE)
