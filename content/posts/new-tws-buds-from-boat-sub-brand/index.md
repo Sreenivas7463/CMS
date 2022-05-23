@@ -4,9 +4,8 @@ date: 2022-05-23T07:41:20.447Z
 image: https://img.youtube.com/vi/4UejzVgmFaI/maxresdefault.jpg
 author: Sreenivas
 ---
-[BUY LINK](https://ekaro.in/enkr20220523s11147205){:target="_blank"}
+[BUY LINK](https://ekaro.in/enkr20220523s11147205)
 
-
-[View Details](https://ekaro.in/enkr20220523s11147205){:target="_blank"}
+[View Details](https://ekaro.in/enkr20220523s11147205)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4UejzVgmFaI/maxresdefault.jpg)](https://dailynewz.xyz/video.php?v=4UejzVgmFaI)
