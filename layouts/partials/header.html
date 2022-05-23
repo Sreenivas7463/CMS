@@ -10,8 +10,8 @@
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://sree99.netlify.app/">
-	<meta property="og:title" content="Meta Tags — Preview, Edit and Generate">
-	<meta property="og:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!">
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:description" content="">
 	 {{ if .Params.image }}
 	 <meta property="og:image" content="{{ .Params.image }}">
          {{ end }}
@@ -19,7 +19,7 @@
 	<meta property="twitter:card" content="summary_large_image">
 	<meta property="twitter:url" content="https://sree99.netlify.app/">
 	<meta property="twitter:title" content="{{ .Title }}">
-	<meta property="twitter:description" content="With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!">
+	<meta property="twitter:description" content="">
 	 {{ if .Params.image }}
 	  <meta property="twitter:image" content="{{ .Params.image }}">
 	 {{ end }}
