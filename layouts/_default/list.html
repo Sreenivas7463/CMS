@@ -25,7 +25,9 @@
         </div>
         {{ end }}
         
-        <div class="entry-content">{{ .Summary }}</div>
+        <div class="entry-content">{{ .Summary }}
+        <p class="float-end mt-1"><a href="{{ .Permalink}}">Read More..</a></p>
+        </div>
     </article>
     {{ end }}
     <div class="pt-4">
