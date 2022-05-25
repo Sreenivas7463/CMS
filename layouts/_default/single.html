@@ -11,9 +11,10 @@
 </p>
 
 {{ if .Params.image }}
-	<img src="{{ .Params.image }}" class="img-fluid rounded">
+<a href="{{ .Permalink}}"><img src="{{ .Params.image }}" class="img-fluid rounded"></a>
 {{ end }}
 
 {{ .Content }}
+<p class="float-end"><a href="{{ .Permalink}}">Read More..</a></p>
 
 {{ partial "footer.html" . }}
