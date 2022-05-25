@@ -20,7 +20,7 @@
         {{ if .Params.image }}
         <div class="row">
              <div class="col-md-8 mx-auto d-flex">
-                <img src="{{ .Params.image }}" class="img-fluid rounded img-thumbnail">
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" class="img-fluid rounded img-thumbnail"></a>
              </div>
         </div>
         {{ end }}
