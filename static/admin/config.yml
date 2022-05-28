@@ -42,13 +42,6 @@ collections:
       - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
   
-   - name: 'faq' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'FAQ' # Used in the UI
-    folder: '_faqs'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
-      - { label: 'Answer', name: 'body', widget: 'markdown' }
       
   - name: "pages"
     label: "Pages"
