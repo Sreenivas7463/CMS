@@ -9,4 +9,8 @@ author: Khaleed
 ---
 # Total 1681 square feet    length 42 sq.f, weidth 40 sq ft ....each 1sq.ft=== 880(rate)
 
-![](https://sree99.netlify.app/images/whatsapp-image-2022-05-28-at-10.18.21-am.jpeg)
+![Total 1681 square feet    length 42 sq.f, weidth 40 sq ft ....each 1sq.ft=== 880(rate)](https://sree99.netlify.app/images/whatsapp-image-2022-05-28-at-10.18.22-am-1-.jpeg)
+
+![Total 1681 square feet    length 42 sq.f, weidth 40 sq ft ....each 1sq.ft=== 880(rate)](https://sree99.netlify.app/images/whatsapp-image-2022-05-28-at-10.18.21-am.jpeg)
+
+![Total 1681 square feet    length 42 sq.f, weidth 40 sq ft ....each 1sq.ft=== 880(rate)](https://sree99.netlify.app/images/whatsapp-image-2022-05-28-at-10.18.22-am.jpeg)
