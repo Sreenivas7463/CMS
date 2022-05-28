@@ -9,7 +9,7 @@ author: Admin
 ---
 # Total 1681 square feet    length 42 sq.f, width 40 sq ft ....each 1sq.ft=== 880(rate)
 
-## Contact No: [Call](tel:8885388373) 
+## Contact No: [Call 8885388373](tel:8885388373) 
 
  
 
