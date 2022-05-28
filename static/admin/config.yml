@@ -55,7 +55,7 @@ collections:
       
   - name: "pages"
     label: "Pages"
-    folder: 'content/'
+    folder: 'content'
     create: true # Allow users to create new documents in this collection
     files:
       - file: "content/_index.md"
