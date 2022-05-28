@@ -9,9 +9,9 @@ author: Admin
 ---
 # Total 1681 square feet    length 42 sq.f, width 40 sq ft ....each 1sq.ft=== 880(rate)
 
-## Contact No: 8885388373 
+## Contact No: [Call](tel:8885388373) 
 
- [Call](tel:8885388373)
+ 
 
 ### Tadipatri near C.V.R.T engineering college
 
