@@ -32,6 +32,7 @@ collections:
         pattern: \d{4}
       - label: Drafts
         field: draft
+   
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: 'Boolean', name: 'boolean', widget: 'boolean', default: true }
@@ -40,6 +41,15 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+  
+   - name: 'faq' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'FAQ' # Used in the UI
+    folder: '_faqs'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: 'Question', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Answer', name: 'body', widget: 'markdown' }
+      
   - name: "pages"
     label: "Pages"
     files:
