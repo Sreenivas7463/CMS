@@ -16,3 +16,9 @@ dateFormat = "Jan 2, 2006, 3:04PM"
     name = "About"
     url = "/about"
     weight = 20
+    
+    [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 30
