@@ -7,7 +7,7 @@ image: https://sree99.netlify.app/images/whatsapp-image-2022-05-28-at-10.17.11-a
 tags: Open Plots
 author: Admin
 ---
-# Total 1681 square feet    length 42 sq.f, width 40 sq ft ....each 1sq.ft=== 880(rate)
+https://sree99.netlify.app/images/save_20220528_222500.jpg# Total 1681 square feet    length 42 sq.f, width 40 sq ft ....each 1sq.ft=== 880(rate)
 
 ## Contact No: [Call 8885388373](tel:8885388373) 
 
