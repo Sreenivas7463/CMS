@@ -2,7 +2,7 @@
 title: Genelia Deshmukh Flaunts Her Toned Figure In Hot Outfit At Karan Johar's
   Birthday Celebration
 date: 2022-05-27T03:54:39.462Z
-image: http://i.ytimg.com/vi/2d9tp4IhKu4/hq720.jpg
+image: https://i.ytimg.com/vi/2d9tp4IhKu4/hq720.jpg
 tags: Entertainment
 author: Admin
 ---
