@@ -57,19 +57,6 @@ collections:
     label: "Pages"
     folder: 'content/'
     create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Blurb", name: "blurb", widget: "text" }
-          - {
-              label: "Section",
-              name: "section",
-              widget: "object",
-              fields:
-                [
-                  { label: "Heading", name: "heading", widget: string },
-                  { label: "Text", name: "text", widget: "text" },
-                ],
-            }
     files:
       - file: "content/_index.md"
         label: "Home Page"
