@@ -10,4 +10,4 @@ author: Admin
 ---
 # [Buy Link](https://amzn.to/3NLNHnn)
 
-![Probuds 21 | 45 Hrs Playtime with 60MaH Bull Battery Earbuds](https://m.media-amazon.com/images/I/41La18mlMWL._AC_SY580_FMwebp_.jpg)
+[![Probuds 21 | 45 Hrs Playtime with 60MaH Bull Battery Earbuds](https://m.media-amazon.com/images/I/41La18mlMWL._AC_SY580_FMwebp_.jpg)](https://amzn.to/3NLNHnn)
