@@ -12,8 +12,11 @@
             </span>
             <span class="post-tags">
                 {{ range (.GetTerms "tags") }}
-                    <a href="{{ .Permalink }}">{{ .LinkTitle }} {{ $taxonomy.Count }}</a>
+                    <a href="{{ .Permalink }}">{{ .LinkTitle }} </a>
                 {{ end }}
+                {{  $name, $taxonomy := .Site.Taxonomies.tags }}
+    <a href="/tags/{{ $name | urlize }}">#{{ $name | humanize }} ({{ $taxonomy.Count }})</a>
+{{end}}
             </span>
         </div>
         
