@@ -8,4 +8,4 @@ image: https://m.media-amazon.com/images/I/214fBaoZoBL._AC_SY580_FMwebp_.jpg
 tags: Amazon
 author: Admin
 ---
-https://amzn.to/3NLNHnnhttps://m.media-amazon.com/images/I/41La18mlMWL._AC_SY580_FMwebp_.jpg
+![Probuds 21 | 45 Hrs Playtime with 60MaH Bull Battery Earbuds](https://amzn.to/3NLNHnnhttps://m.media-amazon.com/images/I/41La18mlMWL._AC_SY580_FMwebp_.jpg)
