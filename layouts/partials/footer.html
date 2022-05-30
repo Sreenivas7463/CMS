@@ -1,6 +1,11 @@
 </main>
 	
 <footer class="p-3 bg-dark text-white mb-0">
+	<div class="my-2">
+	  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+	    <a href="/tags/{{ $name | urlize }}">#{{ $name | humanize }} ({{ $taxonomy.Count }})</a>
+	{{end}}	
+	</div>
 	<div class="copyright text-center">&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}</div>
 </footer>
 
