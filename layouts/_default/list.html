@@ -34,6 +34,10 @@
         {{ template "_internal/pagination.html" . }}
     </div>
     
+    
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <a href="/tags/{{ $name | urlize }}">#{{ $name | humanize }} ({{ $taxonomy.Count }})</a>
+{{end}}
 </section>
 
 {{ partial "footer.html" . }}
