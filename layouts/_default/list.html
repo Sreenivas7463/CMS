@@ -14,9 +14,7 @@
                 {{ range (.GetTerms "tags") }}
                     <a href="{{ .Permalink }}">{{ .LinkTitle }} </a>
                 {{ end }}
-                {{  $taxonomy := .Site.Taxonomies.tags }}
-   ({{ $taxonomy.Count }})</a>
-
+              
             </span>
         </div>
         
