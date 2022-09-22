@@ -1,6 +1,6 @@
 ---
 title: cannes film festival 2022
-boolean: true
+boolean: false
 date: 2022-05-31T07:28:43.050Z
 image: https://sree99.netlify.app/images/fs_lvu3mvrdn2zll.jpg
 tags: Entertainment
