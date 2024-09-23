@@ -1,6 +1,5 @@
 ---
 title: Actress Tabu Visuals @ Karan Johar's 50th Birthday Bash | Tollywood Vega
-boolean: true
 date: 2022-05-29T11:13:05.516Z
 image: https://pbs.twimg.com/media/FT3Sx0iaUAI_Nis?format=jpg&name=large
 tags: Entertainment
